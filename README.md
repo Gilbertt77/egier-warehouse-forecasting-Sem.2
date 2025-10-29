@@ -32,4 +32,6 @@ Provide a complete **Jupyter Notebook (.ipynb)** containing:
 - Data visualization  
 - Polynomial fitting  
 - Taylor approximation  
-- Root estimation via Newton Raphson  
+- Root estimation via Newton Raphson
+
+Google Colab link : https://colab.research.google.com/drive/1fvUT7-21qtkvGQ8Zi-T7u3FJhEuqf-eh?usp=sharing
